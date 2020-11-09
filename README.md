@@ -16,7 +16,6 @@ Mostly working on iOS, macOS and watchOS apps.
 
 ### Other skills
 
-Databases: MongoDB, MySQL
  - iOS / watchOS / macOS
     - Xcode, Git, GitHub integration
     - UI: SwiftUI, basic UIKit
@@ -34,11 +33,11 @@ Databases: MongoDB, MySQL
     - Eclipse Java IDE
     - UI: Swing
     - Cross platform: Windows, Mac, Linux
-    - Knowledge of Image and **bit manipulation** ([Snowymage](http://elementalcube.infos.st/product/11) with custom SNI image format, [SnowHex](http://elementalcube.infos.st/product/10) with hexadecimal GIF syntax highlighting), IDE, Programming Languages and Syntax Highlighting ([BBTCEnvironment](http://elementalcube.infos.st/product/6), [SnowHex](http://elementalcube.infos.st/product/10)), Graphics ([Graphism](http://elementalcube.infos.st/product/4), [Snowchart](http://elementalcube.infos.st/product/5))
+    - Knowledge of Image and **bit manipulation** ([Snowymage](http://elementalcube.infos.st/product/11) with custom SNI image format, [SnowHex](http://elementalcube.infos.st/product/10) with hexadecimal GIF syntax highlighting), IDE, Programming Languages and Syntax Highlighting ([BBTCEnvironment](http://elementalcube.infos.st/product/6), [SnowHex](http://elementalcube.infos.st/product/10)), Graphics ([Graphism](http://elementalcube.infos.st/product/4), [Snowchart](http://elementalcube.infos.st/product/5)), Networking ([MAS](http://elementalcube.infos.st/product/2) with [its server](http://elementalcube.infos.st/product/8))
     - XML configuration files
   - Open source projects
     - My programming language, written in Swift: [Graphism Swift](https://github.com/Snowy1803/Graphism-Swift)
-    - Unreleased iOS game: [BreakBaloon](https://github.com/Snowy1803/BreakBaloon-mobile)
+    - Unreleased iOS (SpriteKit) game: [BreakBaloon](https://github.com/Snowy1803/BreakBaloon-mobile)
 
 ### Contact
 

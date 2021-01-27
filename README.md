@@ -2,7 +2,7 @@
 
 Current project: [Orbe pour Pronote](https://apps.apple.com/fr/app/orbe-pour-pronote/id1508406857)  
 Other project: [French Republican Calendar (Calendrier républicain moderne)](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182)
-—> Its converter is [open source](https://gist.github.com/Snowy1803/1c610811c8d957d16943ae166604bf95)
+—> It is [open source](https://github.com/Snowy1803/FrenchRepublicanCalendar)
 
 All my iOS apps are written in ✨ _SwiftUI_ ✨
 
@@ -19,7 +19,7 @@ Mostly working on iOS, macOS and watchOS apps.
  - iOS / watchOS / macOS
     - Xcode, Git, GitHub integration
     - UI: SwiftUI, basic UIKit
-    - See here: [Orbe pour Pronote](https://apps.apple.com/fr/app/orbe-pour-pronote/id1508406857), [Calendrier républicain moderne](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182)
+    - App Store links: [Orbe pour Pronote](https://apps.apple.com/fr/app/orbe-pour-pronote/id1508406857), [Calendrier républicain moderne](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182)
  - App Backend
     - NodeJS, JavaScipt, Puppeteer
     - JSON REST API

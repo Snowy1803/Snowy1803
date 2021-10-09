@@ -1,16 +1,19 @@
 # Emil
 
-Current project: [Orbe pour Pronote](https://apps.apple.com/fr/app/orbe-pour-pronote/id1508406857)  
-Other project: [French Republican Calendar (Calendrier républicain moderne)](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182)
+### Recent projects
+
+- [French Republican Calendar (Calendrier républicain moderne)](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182)  
 —> It is [open source](https://github.com/Snowy1803/FrenchRepublicanCalendar)
+- Orbe pour Pronote *(now unavailable)*
+- The [GRPH programming language](https://github.com/Snowy1803/grph), made for drawing shapes and animating them procedurally
 
 All my iOS apps are written in ✨ _SwiftUI_ ✨
 
 ### Programming languages
 
-Currently using a lot of **Swift**, and some **JavaScript** and **Python**.
-Previously worked a lot with **Java** (Swing).
-I also have some experience with PHP
+Currently using a lot of **Swift**, and learning **C**.  
+Previously worked a lot with **Java** (Swing).  
+I also have some experience with **JavaScript**, **Python**, and **PHP**.
 
 Mostly working on iOS, macOS and watchOS apps.
 
@@ -28,12 +31,12 @@ Mostly working on iOS, macOS and watchOS apps.
  - Website
     - HTML/CSS, PHP
     - SQL and MySQL
-    - See here: [Elemental Cube](http://elementalcube.infos.st)
+    - See here: [Elemental Cube](https://ec.emil.codes)
  - Desktop Java apps
     - Eclipse Java IDE
     - UI: Swing
     - Cross platform: Windows, Mac, Linux
-    - Knowledge of Image and **bit manipulation** ([Snowymage](http://elementalcube.infos.st/product/11) with custom SNI image format, [SnowHex](http://elementalcube.infos.st/product/10) with hexadecimal GIF syntax highlighting), IDE, Programming Languages and Syntax Highlighting ([BBTCEnvironment](http://elementalcube.infos.st/product/6), [SnowHex](http://elementalcube.infos.st/product/10)), Graphics ([Graphism](http://elementalcube.infos.st/product/4), [Snowchart](http://elementalcube.infos.st/product/5)), Networking ([MAS](http://elementalcube.infos.st/product/2) with [its server](http://elementalcube.infos.st/product/8))
+    - Knowledge of Image and **bit manipulation** ([Snowymage](https://ec.emil.codes/product/11) with custom SNI image format, [SnowHex](https://ec.emil.codes/product/10) with hexadecimal GIF syntax highlighting), IDE, Programming Languages and Syntax Highlighting ([BBTCEnvironment](https://ec.emil.codes/product/6), [SnowHex](https://ec.emil.codes/product/10)), Graphics ([Graphism](https://ec.emil.codes/product/4), [Snowchart](https://ec.emil.codes/product/5)), Networking ([MAS](https://ec.emil.codes/product/2) with [its server](https://ec.emil.codes/product/8))
     - XML configuration files
   - Open source projects
     - My programming language, written in Swift: [Graphism Swift](https://github.com/Snowy1803/Graphism-Swift)
@@ -42,7 +45,8 @@ Mostly working on iOS, macOS and watchOS apps.
 ### Contact
 
 Twitter: [@Snowy_1803](https://twitter.com/Snowy_1803)  
-Personal website _(fr)_ : [Elemental Cube](http://elementalcube.infos.st)  
+Personal website : [emil.codes](https://emil.codes)  
+Java/PHP Projects : [Elemental Cube](https://ec.emil.codes)  
 Enterprise website _(fr)_ : [Orbisec](https://orbisec.fr)  
 StackOverflow : [Snowy_1803](https://stackoverflow.com/users/6551357/snowy-1803)  
 He/him

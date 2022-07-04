@@ -12,9 +12,9 @@ All my iOS apps are written in ✨ _SwiftUI_ ✨
 
 ### Programming languages
 
-Currently using a lot of **Swift**, and learning **C**.  
+Currently using a lot of **Swift**, and **C**.  
 Previously worked a lot with **Java** (Swing).  
-I also have some experience with **JavaScript**, **Python**, **PHP**, **bash scripting**, **LLVM IR**, and my own language, **GRPH**.
+I also have some experience with **JavaScript**, **Python**, **PHP**, **bash scripting**, **LLVM IR**, and my own language, **GRPH**.  
 I love learning languages, and have also used Rust, Golang, C++, and Perl.
 
 Mostly working on iOS, macOS and watchOS apps.

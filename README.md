@@ -44,7 +44,7 @@ Mostly working on iOS, macOS and watchOS apps.
     - Knowledge of Image and bit arithmetic ([Snowymage](https://ec.emil.codes/product/11) with custom SNI image format, [SnowHex](https://ec.emil.codes/product/10) with hexadecimal GIF syntax highlighting), IDE, Programming Languages and Syntax Highlighting ([BBTCEnvironment](https://ec.emil.codes/product/6), [SnowHex](https://ec.emil.codes/product/10)), Graphics ([Graphism](https://ec.emil.codes/product/4), [Snowchart](https://ec.emil.codes/product/5)), Networking ([MAS](https://ec.emil.codes/product/2) with [its server](https://ec.emil.codes/product/8))
     - XML configuration files
   - C Command Line Tools
-    - School projects @ Epitech
+    - School projects @ [Epitech](https://www.epitech.eu/)
     - C, UNIX, CSFML, ncurses
   - Open source projects
     - The French Republican Calendar: [Core](https://github.com/Snowy1803/FrenchRepublicanCalendarCore) | [App](https://github.com/Snowy1803/FrenchRepublicanCalendar) | [Web app (Wasm)](https://github.com/Snowy1803/FrenchRepublicanCalendarWeb)
@@ -58,6 +58,6 @@ Twitter: [@Snowy_1803](https://twitter.com/Snowy_1803)
 Personal website: [emil.codes](https://emil.codes)  
 Java/PHP Projects: [Elemental Cube](https://ec.emil.codes)  
 StackOverflow: [Snowy_1803](https://stackoverflow.com/users/6551357/snowy-1803)  
-LinkedIn: [emil-b-pedersen](https://www.linkedin.com/in/emil-b-pedersen/)
-Email: [contact@emil.codes](mailto:contact@emil.codes)
+LinkedIn: [emil-b-pedersen](https://www.linkedin.com/in/emil-b-pedersen/)  
+Email: [contact@emil.codes](mailto:contact@emil.codes)  
 He/him

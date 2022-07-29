@@ -1,27 +1,30 @@
-# Emil
+# Emil Pedersen (He/him)
 
 ### Recent projects
 
 - [French Republican Calendar (Calendrier républicain moderne)](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182)  
 —> It is [open source](https://github.com/Snowy1803/FrenchRepublicanCalendar)
+-> native iOS and watchOS + web app
 - Orbe pour Pronote *(now unavailable)*
+-> native iOS, watchOS and macOS
 - The [GRPH programming language](https://github.com/grph-lang/grph), made for drawing shapes and animating them procedurally
+-> compiler frontend in Swift using LLVM
 - [SnowHex](https://github.com/Snowy1803/SnowHex), a hex editor with syntax highlighting for GIF
+-> Java Swing Desktop App
 
-All my iOS apps are written in ✨ _SwiftUI_ ✨
+Most of my iOS apps are written in ✨ _SwiftUI_ ✨
 
 ### Programming languages
 
-Currently using a lot of **Swift**, and **C**.  
-Previously worked a lot with **Java** (Swing).  
-I also have some experience with **JavaScript**, **Python**, **PHP**, **bash scripting**, **LLVM IR**, and my own language, **GRPH**.  
+My main languages are **Swift**, **Java** (Swing) and **C**. I've made a lot of projects with them, and I master them completely.  
+I also have some experience with **JavaScript**, **Python**, **PHP**, **bash scripting**, **LLVM IR**, and of course my own language, **GRPH**.  
 I love learning languages, and have also used Rust, Golang, C++, and Perl.
 
-Mostly working on iOS, macOS and watchOS apps.
+I am mostly working on iOS, macOS and watchOS apps on my free time (I am still looking for an [internship](https://www.linkedin.com/posts/emil-b-pedersen_codingame-certification-activity-6940289799496830976-zFy-))
 
-### Other skills
+### Skills
 
- - iOS / watchOS / macOS
+ - iOS / watchOS / macOS :heart:
     - Xcode
     - UI: SwiftUI, AppKit and UIKit
     - App Store links: [Orbe pour Pronote](https://apps.apple.com/fr/app/orbe-pour-pronote/id1508406857), [Calendrier républicain moderne](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182)
@@ -30,11 +33,11 @@ Mostly working on iOS, macOS and watchOS apps.
     - JSON REST API
     - Database: MongoDB
     - Linux, Python scripting
- - Web Development
+ - Web Development (i hate it and it's reciprocal)
     - HTML/CSS, PHP
     - SQL and MySQL
     - Website link: [Elemental Cube](https://ec.emil.codes)
- - Compiler Frontend
+ - Compiler Frontend :heart:
     - Swift, LLVM, LSP
     - Repo link: [GRPH language](https://github.com/grph-lang/grph)
  - Desktop Java apps
@@ -50,7 +53,7 @@ Mostly working on iOS, macOS and watchOS apps.
     - The French Republican Calendar: [Core](https://github.com/Snowy1803/FrenchRepublicanCalendarCore) | [App](https://github.com/Snowy1803/FrenchRepublicanCalendar) | [Web app (Wasm)](https://github.com/Snowy1803/FrenchRepublicanCalendarWeb)
     - The GRPH SwiftUI Runtime: [Graphism Swift](https://github.com/Snowy1803/Graphism-Swift)
     - Unreleased iOS (SpriteKit) game: [BreakBaloon](https://github.com/Snowy1803/BreakBaloon-mobile)
-    - My Hex Editor: [SnowHex](https://github.com/Snowy1803/SnowHex)
+    - My Hex Editor with Syntax Highlighting: [SnowHex](https://github.com/Snowy1803/SnowHex)
 
 ### Contact
 
@@ -60,4 +63,4 @@ Java/PHP Projects: [Elemental Cube](https://ec.emil.codes)
 StackOverflow: [Snowy_1803](https://stackoverflow.com/users/6551357/snowy-1803)  
 LinkedIn: [emil-b-pedersen](https://www.linkedin.com/in/emil-b-pedersen/)  
 Email: [contact@emil.codes](mailto:contact@emil.codes)  
-He/him
+

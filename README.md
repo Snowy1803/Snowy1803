@@ -20,7 +20,7 @@ My main languages are **Swift**, **Java** (Swing) and **C**. I've made a lot of 
 I also have some experience with **JavaScript**, **Python**, **PHP**, **bash scripting**, **LLVM IR**, and of course my own language, **GRPH**.  
 I love learning languages, and have also used Rust, Golang, C++, and Perl.
 
-I am mostly working on iOS, macOS and watchOS apps on my free time (I am still looking for an [internship](https://www.linkedin.com/posts/emil-b-pedersen_codingame-certification-activity-6940289799496830976-zFy-))
+I am mostly working on iOS, macOS and watchOS apps on my free time.
 
 ### Skills
 

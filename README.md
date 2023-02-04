@@ -1,24 +1,27 @@
 # Emil Pedersen (He/him)
 
-### Recent projects
+### Relevant projects
 
-- [French Republican Calendar (Calendrier républicain moderne)](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182)  
-—> It is [open source](https://github.com/Snowy1803/FrenchRepublicanCalendar)
--> native iOS and watchOS + web app
-- Orbe pour Pronote *(now unavailable)*
--> native iOS, watchOS and macOS
-- The [GRPH programming language](https://github.com/grph-lang/grph), made for drawing shapes and animating them procedurally
--> compiler frontend in Swift using LLVM
-- [SnowHex](https://github.com/Snowy1803/SnowHex), a hex editor with syntax highlighting for GIF
--> Java Swing Desktop App
+- [French Republican Calendar](https://emil.codes/projects/french-republican-calendar/) ([App Store](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182))  
+🔓 It is [open source](https://github.com/Snowy1803/FrenchRepublicanCalendar)  
+📱 It is a native iOS and watchOS app (SwiftUI)   
+🖥 Also available as a web app (SwiftWasm)  
+- [Orbe pour Pronote](https://emil.codes/projects/orbe-pour-pronote/) *(now unavailable)*  
+📱 native iOS, watchOS and macOS (mostly SwiftUI)
+- The [GRPH programming language](https://github.com/grph-lang/grph), made for drawing shapes and animating them procedurally  
+📘 compiler frontend in Swift using LLVM
+- The [Suffix programming language](https://github.com/Snowy1803/suffix-lang), a type-safe functional programming language using rpn  
+📘 WIP compiler frontend in Swift
+- [SnowHex](https://github.com/Snowy1803/SnowHex), a hex editor with syntax highlighting for GIF  
+🖥 Java Swing Desktop App
 
-Most of my iOS apps are written in ✨ _SwiftUI_ ✨
+More information on [my website](https://emil.codes)
 
 ### Programming languages
 
 My main languages are **Swift**, **Java** (Swing) and **C**. I've made a lot of projects with them, and I master them completely.  
-I also have some experience with **JavaScript**, **Python**, **PHP**, **bash scripting**, **LLVM IR**, and of course my own language, **GRPH**.  
-I love learning languages, and have also used Rust, Golang, C++, and Perl.
+I also have some experience with **Python**, **JavaScript**, **PHP**, **C++**, **Haskell**, **Objective-C**, **bash scripting**, **LLVM IR**, and of course my own language, **GRPH**.  
+I love learning languages, and have also tried Rust, Golang, C#, Perl, Clojure, Kotlin and Scala.
 
 I am mostly working on iOS, macOS and watchOS apps on my free time.
 

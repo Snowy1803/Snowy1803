@@ -20,8 +20,8 @@ More information on [my website](https://emil.codes)
 ### Programming languages
 
 My main languages are **Swift**, **Java 8** and **C**. I've made a lot of projects with them, and I master them completely.  
-I also have some experience with **Python**, **JavaScript**, **PHP**, **C++**, **Haskell**, **Objective-C**, **bash scripting**, **LLVM IR**, and of course my own language, **GRPH**.  
-I love learning languages, and have also tried Rust, Golang, C#, Perl, Clojure, Kotlin and Scala.
+I also have some experience with **Python**, **JavaScript**, **PHP**, **C++**, **Haskell**, **Rust**, **Objective-C**, **bash scripting**, **LLVM IR**, and of course my own language, **GRPH**.  
+I love learning languages, and have also tried Golang, C#, Perl, Clojure, Kotlin and Scala.
 
 I am mostly working in Swift on my free time, currently on [Suffix](https://github.com/Snowy1803/suffix-lang), and C++ or Haskell in school (Epitech).
 

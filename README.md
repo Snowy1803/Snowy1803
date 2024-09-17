@@ -2,28 +2,36 @@
 
 ### Relevant projects
 
-- [French Republican Calendar](https://emil.codes/projects/french-republican-calendar/) ([App Store](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182))  
-🔓 It is [open source](https://github.com/Snowy1803/FrenchRepublicanCalendar)  
-📱 It is a native iOS and watchOS app (SwiftUI)   
-🖥 Also available as a web app (SwiftWasm)  
-- [Orbe pour Pronote](https://emil.codes/projects/orbe-pour-pronote/) *(now unavailable)*  
-📱 native iOS, watchOS and macOS (mostly SwiftUI)
-- The [GRPH programming language](https://github.com/grph-lang/grph), made for drawing shapes and animating them procedurally  
-📘 compiler frontend in Swift using LLVM
-- The [Suffix programming language](https://github.com/Snowy1803/suffix-lang), a type-safe functional programming language using rpn  
-📘 WIP compiler frontend in Swift
-- [SnowHex](https://github.com/Snowy1803/SnowHex), a hex editor with syntax highlighting for GIF  
-🖥 Java Swing Desktop App
-
-More information on [my website](https://emil.codes)
+- The [EK programming language](https://github.com/legolas-tek/ek) ([Documentation](https://github.com/legolas-tek/ek/wiki/Getting-Started-with-EK)) (2024)  
+ℹ️ A [dynamic](## "The langage is dynamically typed, and allows checking the type of arguments at runtime") [mixfix](## "The language allows defining operators that can be mixed with arguments arbitrarily, and is completely customizable") [strict](## "By default, the language evaluates arguments before calling functions") and [impure](## "Functions may freely have side effects") [functional](## "The language is focused on defining small functions that can be composed together") programming language  
+⚙️ VM interpreter in Haskell  
+🥇 Earned first place within its category of Epitech projects  
+🔓 It is [open source](https://github.com/legolas-tek/ek) under the BSD 3-clause license  
+- The [GRPH programming language](https://github.com/grph-lang/grph) (2022-2023)  
+ℹ️ A programming language allowing the animation of vector figures  
+⚙️ Compiler frontend in Swift using LLVM  
+📘 Standard library in C and C++  
+🔓 It is [open source](https://github.com/grph-lang/grph) under the MPL 2.0 license 
+- [French Republican Calendar](https://emil.codes/projects/french-republican-calendar/) ([App Store](https://apps.apple.com/fr/app/calendrier-republicain-moderne/id1509106182)) (2020)  
+ℹ️ A date converter to the Republican calendar of 1793.  
+📱 Native iOS and watchOS app (SwiftUI)   
+🖥 Also available as a [web app](https://frc.emil.codes/) (SwiftWasm)  
+🔓 It is completely [open source](https://github.com/Snowy1803/FrenchRepublicanCalendar) under the MPL 2.0 license
+- [Orbe pour Pronote](https://emil.codes/projects/orbe-pour-pronote/) *(now unavailable)* (2019-2021)  
+ℹ️ An app to see your schedule, grades, and homework, intended for high school students and their parents  
+📱 Native iOS, watchOS and macOS app (SwiftUI and AppKit)
+- [SnowHex](https://github.com/Snowy1803/SnowHex) (2018)  
+ℹ️ A hex editor with syntax highlighting, to help understanding some binary fromats, such as GIF and ELF  
+🖥 Java Swing Desktop App  
+🔓 It is [source available](https://github.com/Snowy1803/SnowHex) since 2022
 
 ### Programming languages
 
-My main languages are **Swift**, **Java 8** and **C**. I've made a lot of projects with them, and I master them completely.  
-I also have some experience with **Python**, **JavaScript**, **PHP**, **C++**, **Haskell**, **Rust**, **Objective-C**, **bash scripting**, **LLVM IR**, and of course my own language, **GRPH**.  
+My main languages are **Swift**, **C** and **C++**. I've made a lot of projects with them, and I master them completely.  
+I also have some experience with **Java**, **Python**, **Rust**, **Haskell**, **JavaScript**, **PHP**, **Objective-C**, **bash scripting**, **LLVM IR**, and of course my own programming languages.  
 I love learning languages, and have also tried Golang, C#, Perl, Clojure, Kotlin and Scala.
 
-I am mostly working in Swift on my free time, currently on [Suffix](https://github.com/Snowy1803/suffix-lang), and C++ or Haskell in school (Epitech).
+Currently, I am mostly writing C and C++ for school projects.
 
 ### Skills
 
@@ -62,11 +70,4 @@ I am mostly working in Swift on my free time, currently on [Suffix](https://gith
 
 ### Contact
 
-See all my socials on [my website](https://emil.codes/socials/)
-
-StackOverflow: [Snowy_1803](https://stackoverflow.com/users/6551357/snowy-1803)  
-LinkedIn: [emil-b-pedersen](https://www.linkedin.com/in/emil-b-pedersen/)  
-Email: [contact@emil.codes](mailto:contact@emil.codes)
-
-Personal website: [emil.codes](https://emil.codes)  
-Java/PHP Projects: [Elemental Cube](https://ec.emil.codes)
+See all my socials on [my website](https://emil.codes/socials/) or in the GitHub sidebar

@@ -25,10 +25,16 @@
 🖥 Java Swing Desktop App  
 🔓 It is [source available](https://github.com/Snowy1803/SnowHex) since 2022
 
+### Relevant contributions
+
+- The [Swift programming language](https://github.com/swiftlang/swift) ([All contributions](https://github.com/swiftlang/swift/pulls?q=is%3Apr+author%3ASnowy1803+is%3Aclosed)) (2024)  
+ℹ️ Worked on improving debug info quality for optimized code, during an internship at Apple  
+➕ [One contribution](https://github.com/llvm/llvm-project/pull/86598) to LLVM
+
 ### Programming languages
 
-My main languages are **Swift**, **C** and **C++**. I've made a lot of projects with them, and I master them completely.  
-I also have some experience with **Java**, **Python**, **Rust**, **Haskell**, **JavaScript**, **PHP**, **Objective-C**, **bash scripting**, **LLVM IR**, and of course my own programming languages.  
+The main languages I use are **Swift**, **C** and **C++**. I've made a lot of projects with them, and I master them completely.  
+I also have some experience with **Java**, **Python**, **Rust**, **Haskell**, **JavaScript**, **PHP**, **Objective-C**, **bash scripting**, **LLVM IR**, and of course my own programming languages (EK, GRPH, Glu).  
 I love learning languages, and have also tried Golang, C#, Perl, Clojure, Kotlin and Scala.
 
 Currently, I am mostly writing C and C++ for school projects.

@@ -1,6 +1,16 @@
 # Emil Pedersen (He/him)
 
-### Relevant projects
+### Conference Talks
+
+- 2024 LLVM Developers' Meeting: [A data-driven approach to debug info quality](https://youtu.be/zluvVkxK6oY) ([slides](https://llvm.org/devmtg/2024-10/slides/studenttalks/Pedersen-DataDrivenApproachToDebugInfoQuality.pdf))
+
+### Relevant Contributions
+
+- The [Swift programming language](https://github.com/swiftlang/swift) ([All contributions](https://github.com/swiftlang/swift/pulls?q=is%3Apr+author%3ASnowy1803+is%3Aclosed)) (2024)  
+ℹ️ Worked on improving debug info quality for optimized code, during an internship at Apple  
+➕ [One contribution](https://github.com/llvm/llvm-project/pull/86598) to LLVM
+
+### Relevant Projects
 
 - The [EK programming language](https://github.com/legolas-tek/ek) ([Documentation](https://github.com/legolas-tek/ek/wiki/Getting-Started-with-EK)) (2024)  
 ℹ️ A [dynamic](## "The langage is dynamically typed, and allows checking the type of arguments at runtime") [mixfix](## "The language allows defining operators that can be mixed with arguments arbitrarily, and is completely customizable") [strict](## "By default, the language evaluates arguments before calling functions") and [impure](## "Functions may freely have side effects") [functional](## "The language is focused on defining small functions that can be composed together") programming language  
@@ -25,19 +35,11 @@
 🖥 Java Swing Desktop App  
 🔓 It is [source available](https://github.com/Snowy1803/SnowHex) since 2022
 
-### Relevant contributions
+### Programming Languages
 
-- The [Swift programming language](https://github.com/swiftlang/swift) ([All contributions](https://github.com/swiftlang/swift/pulls?q=is%3Apr+author%3ASnowy1803+is%3Aclosed)) (2024)  
-ℹ️ Worked on improving debug info quality for optimized code, during an internship at Apple  
-➕ [One contribution](https://github.com/llvm/llvm-project/pull/86598) to LLVM
-
-### Programming languages
-
-The main languages I use are **Swift**, **C** and **C++**. I've made a lot of projects with them, and I master them completely.  
+The main languages I use are **Swift**, **C** and **C++**. I've made a lot of projects with them and I've mastered them.  
 I also have some experience with **Java**, **Python**, **Rust**, **Haskell**, **JavaScript**, **PHP**, **Objective-C**, **bash scripting**, **LLVM IR**, and of course my own programming languages (EK, GRPH, Glu).  
-I love learning languages, and have also tried Golang, C#, Perl, Clojure, Kotlin and Scala.
-
-Currently, I am mostly writing C and C++ for school projects.
+I love learning languages, and have also tried Golang, C#, Perl, Clojure, Kotlin, Scala and Agda, among others.
 
 ### Contact
 
